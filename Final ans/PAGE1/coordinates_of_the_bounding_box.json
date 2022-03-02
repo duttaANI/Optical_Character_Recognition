@@ -1,0 +1,236 @@
+{
+    "box1": {
+        "top_left": [
+            783,
+            1892
+        ],
+        "top_right": [
+            783,
+            1991
+        ],
+        "bottom_left": [
+            1877,
+            1892
+        ],
+        "bottom_right": [
+            1877,
+            1991
+        ]
+    },
+    "box2": {
+        "top_left": [
+            800,
+            2616
+        ],
+        "top_right": [
+            800,
+            2715
+        ],
+        "bottom_left": [
+            1218,
+            2616
+        ],
+        "bottom_right": [
+            1218,
+            2715
+        ]
+    },
+    "box3": {
+        "top_left": [
+            971,
+            2311
+        ],
+        "top_right": [
+            971,
+            2435
+        ],
+        "bottom_left": [
+            2425,
+            2311
+        ],
+        "bottom_right": [
+            2425,
+            2435
+        ]
+    },
+    "box4": {
+        "top_left": [
+            971,
+            2172
+        ],
+        "top_right": [
+            971,
+            2276
+        ],
+        "bottom_left": [
+            2787,
+            2172
+        ],
+        "bottom_right": [
+            2787,
+            2276
+        ]
+    },
+    "box5": {
+        "top_left": [
+            971,
+            2078
+        ],
+        "top_right": [
+            971,
+            2182
+        ],
+        "bottom_left": [
+            2476,
+            2078
+        ],
+        "bottom_right": [
+            2476,
+            2182
+        ]
+    },
+    "box6": {
+        "top_left": [
+            987,
+            3118
+        ],
+        "top_right": [
+            987,
+            3222
+        ],
+        "bottom_left": [
+            2293,
+            3118
+        ],
+        "bottom_right": [
+            2293,
+            3222
+        ]
+    },
+    "box7": {
+        "top_left": [
+            987,
+            3003
+        ],
+        "top_right": [
+            987,
+            3106
+        ],
+        "bottom_left": [
+            2224,
+            3003
+        ],
+        "bottom_right": [
+            2224,
+            3106
+        ]
+    },
+    "box8": {
+        "top_left": [
+            987,
+            2892
+        ],
+        "top_right": [
+            987,
+            2993
+        ],
+        "bottom_left": [
+            2036,
+            2892
+        ],
+        "bottom_right": [
+            2036,
+            2993
+        ]
+    },
+    "box9": {
+        "top_left": [
+            987,
+            2788
+        ],
+        "top_right": [
+            987,
+            2889
+        ],
+        "bottom_left": [
+            2148,
+            2788
+        ],
+        "bottom_right": [
+            2148,
+            2889
+        ]
+    },
+    "box10": {
+        "top_left": [
+            991,
+            2420
+        ],
+        "top_right": [
+            991,
+            2525
+        ],
+        "bottom_left": [
+            2549,
+            2420
+        ],
+        "bottom_right": [
+            2549,
+            2525
+        ]
+    },
+    "box11": {
+        "top_left": [
+            1678,
+            1344
+        ],
+        "top_right": [
+            1678,
+            1502
+        ],
+        "bottom_left": [
+            2573,
+            1344
+        ],
+        "bottom_right": [
+            2573,
+            1502
+        ]
+    },
+    "box12": {
+        "top_left": [
+            3355,
+            3127
+        ],
+        "top_right": [
+            3355,
+            3225
+        ],
+        "bottom_left": [
+            3860,
+            3127
+        ],
+        "bottom_right": [
+            3860,
+            3225
+        ]
+    },
+    "box13": {
+        "top_left": [
+            3373,
+            2431
+        ],
+        "top_right": [
+            3373,
+            2524
+        ],
+        "bottom_left": [
+            3631,
+            2431
+        ],
+        "bottom_right": [
+            3631,
+            2524
+        ]
+    }
+}

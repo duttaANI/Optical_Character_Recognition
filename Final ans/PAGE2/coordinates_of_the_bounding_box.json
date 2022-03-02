@@ -1,0 +1,380 @@
+{
+    "box1": {
+        "top_left": [
+            784,
+            3791
+        ],
+        "top_right": [
+            784,
+            3891
+        ],
+        "bottom_left": [
+            1639,
+            3791
+        ],
+        "bottom_right": [
+            1639,
+            3891
+        ]
+    },
+    "box2": {
+        "top_left": [
+            784,
+            2090
+        ],
+        "top_right": [
+            784,
+            2193
+        ],
+        "bottom_left": [
+            1771,
+            2090
+        ],
+        "bottom_right": [
+            1771,
+            2193
+        ]
+    },
+    "box3": {
+        "top_left": [
+            801,
+            2797
+        ],
+        "top_right": [
+            801,
+            2896
+        ],
+        "bottom_left": [
+            1217,
+            2797
+        ],
+        "bottom_right": [
+            1217,
+            2896
+        ]
+    },
+    "box4": {
+        "top_left": [
+            887,
+            4337
+        ],
+        "top_right": [
+            887,
+            4431
+        ],
+        "bottom_left": [
+            1819,
+            4337
+        ],
+        "bottom_right": [
+            1819,
+            4431
+        ]
+    },
+    "box5": {
+        "top_left": [
+            888,
+            4256
+        ],
+        "top_right": [
+            888,
+            4350
+        ],
+        "bottom_left": [
+            1642,
+            4256
+        ],
+        "bottom_right": [
+            1642,
+            4350
+        ]
+    },
+    "box6": {
+        "top_left": [
+            972,
+            4085
+        ],
+        "top_right": [
+            972,
+            4192
+        ],
+        "bottom_left": [
+            2800,
+            4085
+        ],
+        "bottom_right": [
+            2800,
+            4192
+        ]
+    },
+    "box7": {
+        "top_left": [
+            972,
+            3977
+        ],
+        "top_right": [
+            972,
+            4084
+        ],
+        "bottom_left": [
+            2805,
+            3977
+        ],
+        "bottom_right": [
+            2805,
+            4084
+        ]
+    },
+    "box8": {
+        "top_left": [
+            972,
+            2365
+        ],
+        "top_right": [
+            972,
+            2470
+        ],
+        "bottom_left": [
+            2637,
+            2365
+        ],
+        "bottom_right": [
+            2637,
+            2470
+        ]
+    },
+    "box9": {
+        "top_left": [
+            972,
+            2255
+        ],
+        "top_right": [
+            972,
+            2358
+        ],
+        "bottom_left": [
+            2325,
+            2255
+        ],
+        "bottom_right": [
+            2325,
+            2358
+        ]
+    },
+    "box10": {
+        "top_left": [
+            988,
+            3282
+        ],
+        "top_right": [
+            988,
+            3385
+        ],
+        "bottom_left": [
+            2933,
+            3282
+        ],
+        "bottom_right": [
+            2933,
+            3385
+        ]
+    },
+    "box11": {
+        "top_left": [
+            988,
+            3171
+        ],
+        "top_right": [
+            988,
+            3275
+        ],
+        "bottom_left": [
+            2519,
+            3171
+        ],
+        "bottom_right": [
+            2519,
+            3275
+        ]
+    },
+    "box12": {
+        "top_left": [
+            988,
+            3063
+        ],
+        "top_right": [
+            988,
+            3177
+        ],
+        "bottom_left": [
+            2581,
+            3063
+        ],
+        "bottom_right": [
+            2581,
+            3177
+        ]
+    },
+    "box13": {
+        "top_left": [
+            988,
+            2969
+        ],
+        "top_right": [
+            988,
+            3072
+        ],
+        "bottom_left": [
+            2474,
+            2969
+        ],
+        "bottom_right": [
+            2474,
+            3072
+        ]
+    },
+    "box14": {
+        "top_left": [
+            992,
+            2623
+        ],
+        "top_right": [
+            992,
+            2728
+        ],
+        "bottom_left": [
+            2466,
+            2623
+        ],
+        "bottom_right": [
+            2466,
+            2728
+        ]
+    },
+    "box15": {
+        "top_left": [
+            992,
+            2514
+        ],
+        "top_right": [
+            992,
+            2618
+        ],
+        "bottom_left": [
+            2445,
+            2514
+        ],
+        "bottom_right": [
+            2445,
+            2618
+        ]
+    },
+    "box16": {
+        "top_left": [
+            1734,
+            1344
+        ],
+        "top_right": [
+            1734,
+            1503
+        ],
+        "bottom_left": [
+            2518,
+            1344
+        ],
+        "bottom_right": [
+            2518,
+            1503
+        ]
+    },
+    "box17": {
+        "top_left": [
+            1856,
+            1809
+        ],
+        "top_right": [
+            1856,
+            1922
+        ],
+        "bottom_left": [
+            2367,
+            1809
+        ],
+        "bottom_right": [
+            2367,
+            1922
+        ]
+    },
+    "box18": {
+        "top_left": [
+            1931,
+            3510
+        ],
+        "top_right": [
+            1931,
+            3625
+        ],
+        "bottom_left": [
+            2320,
+            3510
+        ],
+        "bottom_right": [
+            2320,
+            3625
+        ]
+    },
+    "box19": {
+        "top_left": [
+            3356,
+            4091
+        ],
+        "top_right": [
+            3356,
+            4191
+        ],
+        "bottom_left": [
+            3711,
+            4091
+        ],
+        "bottom_right": [
+            3711,
+            4191
+        ]
+    },
+    "box20": {
+        "top_left": [
+            3356,
+            3292
+        ],
+        "top_right": [
+            3356,
+            3391
+        ],
+        "bottom_left": [
+            3957,
+            3292
+        ],
+        "bottom_right": [
+            3957,
+            3391
+        ]
+    },
+    "box21": {
+        "top_left": [
+            3374,
+            2628
+        ],
+        "top_right": [
+            3374,
+            2728
+        ],
+        "bottom_left": [
+            3678,
+            2628
+        ],
+        "bottom_right": [
+            3678,
+            2728
+        ]
+    }
+}

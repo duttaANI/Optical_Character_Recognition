@@ -1,0 +1,17 @@
+As a part of the OCR Assignment, you have to create bounding boxes for each line in the Sanskrit text 
+that is provided in the attached file. After the bounding box is created for the entire line 
+(and not the words), you need to save each line in separate jpg files and send us the output.
+
+Additionally, you need to save the coordinates of the bounding box in a JSON format as shown below:
+
+{
+"box1": {
+"top_left": [0, 0],
+"top_right": [0, 10],
+"bottom_left": [10, 0],
+"bottom_right": [10, 10]
+},
+"box2": {
+     ....
+}
+}
